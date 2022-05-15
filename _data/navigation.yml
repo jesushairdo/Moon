@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Wedding
+  url: /event
+- title: Venue
+  url: /venue
+- title: Transport
+  url: /transport
+- title: Accomodation
+  url: /accomodation
