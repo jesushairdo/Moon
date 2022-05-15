@@ -9,6 +9,7 @@ background:         'assets/img/TitheBarn.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_GB
 url:                https://jesushairdo.github.io/Moon
+email:              jamie+wedding-website@jamiekerwick.co.uk
 
 # Jekyll
 permalink:          /:title/
@@ -38,8 +39,8 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            jesus_hairdo
-facebook:           JamieKerwick
+#twitter:            jesus_hairdo
+#facebook:           JamieKerwick
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
