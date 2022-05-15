@@ -42,6 +42,7 @@ hotels:
     website: 'https://ilkley-riversidehotel.com/'
     distance: '5.6 miles'
 ---
+
 <h2>Hotels</h2>
  {% for hotel in page.hotels %}
 <h3>{% hotel.name %}</h3>
@@ -52,3 +53,4 @@ hotels:
     {% if hotel.facebook %}<li><a href="{% hotel.facebook %}">Facebook</a></li>{% endif %}
     {% if hotel.comments %}<li>{% hotel.commentsa %}</li>{% endif %}
 </ul>
+{% endfor %}
