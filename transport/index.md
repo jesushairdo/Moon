@@ -5,7 +5,7 @@ description: "Local Transport Options"
 comments: false
 ---
 ## Coaches
-# Hargreaves Coaches
+### Hargreaves Coaches
 Mini Buses & Coaches
 Tel: 01756 752567
 [www:](gargreaves.co.uk)
@@ -21,37 +21,37 @@ Vehicle Fleet
 
 ## Taxis
 ### Aire Cabs
-Tel: 01756 799 999
+[Tel: 01756 799 999](tel:+441756799999)
 
 ### Canel Taxis
-Tel: 01756 797 666
+[Tel: 01756 797 666](tel:+1756797666)
 
 ### Chris Jones Private Hire
-Tel: 01943 831 939
+[Tel: 01943 831 939](tel:+441943831939)
 
 ### CJs Taxis
-Tel: 01756 791 799
+[Tel: 01756 791 799](tel:+441756791799)
 
 ### Cooke-Cars Private Hire
-Tel: 01943 839 395
+[Tel: 01943 839 395](tel:+441943839395)
 
 ### Dalesman Central Taxis
-Tel: 01756 794 444
+[Tel: 01756 794 444](tel:+441756794444)
 
 ### Graham Pullan Private Hire
-Tel: 07779 664 131
+[Tel: 07779 664 131](tel:+447779664131)
 
 ### Ilkley Private Hire
-Tel: 01943 601 110
+[Tel: 01943 601 110](tel:+441943601110)
 
 ### Ilkely Taxis
-Tel: 01943 603 330
+[Tel: 01943 603 330](tel:+441943603330)
 
 ### Skipton Taxis
-Tel: 01756 701 122
+[Tel: 01756 701 122](tel:+441756701122)
 
 ### Star Taxis
-Tel: 01756 700 505
+[Tel: 01756 700 505](tel:+441756700505)
 
 ### Station Taxis
-Tel: 01756 202 020
+[Tel: 01756 202 020](tel:+441756202020)
