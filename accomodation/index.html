@@ -1,0 +1,54 @@
+---
+layout: page
+title: Accomodation
+description: "An archive of posts sorted by tag."
+comments: false
+hotels:
+  - name: 'Herriots Hotel'
+    phone_no: '01756 792 781'
+    phone_no_for_url: '+441756792781'
+    website: 'https://www.herriotsforleisure.co.uk'
+    distance: '6.9 miles'
+  - name: 'Premier Inn Skipton'
+    phone_no: '0871 527 8980'
+    phone_no_for_url: '+448715278980'
+    website: 'https://www.premierinn.com/gb/en/hotels/england/north-yorkshire/skipton/skipton-north-gargrave.html'
+    distance: '15.4 miles'
+  - name: 'Travelodge Skipton'
+    phone_no: '08719 846 177'
+    phone_no_for_url: '+448719846177'
+    website: 'https://www.travelodge.co.uk/hotels/176/Skipton-hotel'
+    distance: '7.9 miles'
+  - name: 'The Devonshire Arms'
+    phone_no: '01756 718 100'
+    phone_no_for_url: '+441756718100'
+    website: 'https://devonshirehotels.co.uk/devonshire-arms-hotel-spa/'
+    distance: '0.8 miles'
+  - name: 'The Devonshire Fell'
+    phone_no: '01756 729 000'
+    phone_no_for_url: '+441756729000'
+    website: 'https://devonshirehotels.co.uk/devonshire-fell-burnsall/'
+    distance: '5.8 miles'
+  - name: 'The Hopper Lane Hotel'
+    phone_no: '01943 880 010'
+    phone_no_for_url: '+441943880010'
+    website: 'http://www.hopperlanehotel.co.uk/'
+    facebook: 'https://www.facebook.com/thehopperlane'
+    comments: 'This hotel is currently closed - check the facebook page for updates'
+    distance: '7.9 miles'
+  - name: 'The Riverside Hotel'
+    phone_no: '01943 607 338'
+    phone_no_for_url: '+441943607338'
+    website: 'https://ilkley-riversidehotel.com/'
+    distance: '5.6 miles'
+---
+<h2>Hotels</h2>
+ {% for hotel in page.hotels %}
+<h3>{% hotel.name %}</h3>
+<ul>
+    <li>Distance {% hotel.distance %}</li>
+    <li>Phone: <a href="tel:{% hotel.phone_no_for_url %}">{% hotel.phone_no %}</a></li>
+    <li><a href="{% hotel.website %}">Website</a></li>
+    {% if hotel.facebook %}<li><a href="{% hotel.facebook %}">Facebook</a></li>{% endif %}
+    {% if hotel.comments %}<li>{% hotel.commentsa %}</li>{% endif %}
+</ul>
