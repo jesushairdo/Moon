@@ -45,9 +45,9 @@ hotels:
 
 <h2>Hotels</h2>
  {% for hotel in page.hotels %}
-<h3>{% hotel.name %}</h3>
+<h3>{{ hotel.name }}</h3>
 <ul>
-    <li>Distance {% hotel.distance %}</li>
+    <li>Distance {{ hotel.distance }}</li>
     <li>Phone: <a href="tel:{{ hotel.phone_no_for_url }}">{{ hotel.phone_no }}</a></li>
     <li><a href="{{ hotel.website }}">Website</a></li>
     {% if hotel.facebook %}<li><a href="{{ hotel.facebook }}">Facebook</a></li>{% endif %}
