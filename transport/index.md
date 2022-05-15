@@ -20,38 +20,38 @@ Vehicle Fleet
 * 77 seater
 
 ## Taxis
-# Aire Cabs
+### Aire Cabs
 Tel: 01756 799 999
 
-# Canel Taxis
+### Canel Taxis
 Tel: 01756 797 666
 
-# Chris Jones Private Hire
+### Chris Jones Private Hire
 Tel: 01943 831 939
 
-# CJs Taxis
+### CJs Taxis
 Tel: 01756 791 799
 
-# Cooke-Cars Private Hire
+### Cooke-Cars Private Hire
 Tel: 01943 839 395
 
-# Dalesman Central Taxis
+### Dalesman Central Taxis
 Tel: 01756 794 444
 
-# Graham Pullan Private Hire
+### Graham Pullan Private Hire
 Tel: 07779 664 131
 
-# Ilkley Private Hire
+### Ilkley Private Hire
 Tel: 01943 601 110
 
-# Ilkely Taxis
+### Ilkely Taxis
 Tel: 01943 603 330
 
-# Skipton Taxis
+### Skipton Taxis
 Tel: 01756 701 122
 
-# Star Taxis
+### Star Taxis
 Tel: 01756 700 505
 
-# Station Taxis
+### Station Taxis
 Tel: 01756 202 020
