@@ -142,7 +142,8 @@ camps:
 </ul>
 {% endfor %}
 <h2>Pubs with rooms</h2>
-% for pub in page.pubs %<h3>{{ pub.name }}</h3>
+{% for pub in page.pubs %}
+<h3>{{ pub.name }}</h3>
 <ul>
   <li>Distance {{ pub.distance }}</li>
   {% if pub.phone_no %}<li>Phone: <a href="tel:{{ pub.phone_no_for_url }}">{{ pub.phone_no }}</a></li>{% endif %}
