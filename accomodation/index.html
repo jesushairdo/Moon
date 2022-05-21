@@ -141,6 +141,7 @@ camps:
     {% if hotel.comments %}<li>{{ hotel.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
+
 <h2>Pubs with rooms</h2>
 {% for pub in page.pubs %}
 <h3>{{ pub.name }}</h3>
@@ -148,7 +149,7 @@ camps:
   <li>Distance {{ pub.distance }}</li>
   {% if pub.phone_no %}<li>Phone: <a href="tel:{{ pub.phone_no_for_url }}">{{ pub.phone_no }}</a></li>{% endif %}
   <li><a href="{{ pub.website }}">Website</a></li>
-  {% if pub.facebook %}<li><a href="{{ pub.facebook }}">Facebook</a></li>% endif %}
+  {% if pub.facebook %}<li><a href="{{ pub.facebook }}">Facebook</a></li>{% endif %}
   {% if pub.comments %}<li>{{ pub.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
