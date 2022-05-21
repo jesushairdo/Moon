@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: $color_opaque_white;
 	opacity: 0.3;
 	color: $color_shark;
 	z-index: 1;
