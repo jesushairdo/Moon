@@ -41,6 +41,93 @@ hotels:
     phone_no_for_url: '+441943607338'
     website: 'https://ilkley-riversidehotel.com/'
     distance: '5.6 miles'
+
+pubs:
+  - name: 'Craven Heifer'
+    phone_no: '01943 831548'
+    phone_no_for_url: '+441943831548'
+    website: 'https://cravenheifer-addingham.co.uk/'
+    distance: '3 miles'
+  - name: 'The Red Lion'
+    phone_no: '01756 720204'
+    phone_no_for_url: '+441756720204'
+    website: 'https://redlion.co.uk/'
+    distance: '6 miles'
+
+bnbs:
+  - name: 'Bondcroft Farm'
+    phone_no: '07846 992353'
+    phone_no_for_url: '+447846992353'
+    website: 'https://www.bondcroftfarm.co.uk/'
+    distance: '5.4 miles'
+  - name: 'Langbar'
+    distance: '2.9 miles'
+    comments: 'Find on AirBNB'
+  - name: 'Crown Cottage Farm'
+    phone_no: '01756 794618'
+    phone_no_for_url: '+441756794618'
+    website: 'https://www.crowncottagefarm.co.uk/'
+    distance: '6.1 miles'
+    comments: "Also has a shepherd's hut for 2 people'
+  - name: 'Dean Head Luxury B&amp;B'
+    phone_no: '07889 226143'
+    phone_no_for_url: '+447889226143'
+    website: 'https://www.deanheadbnb.com/'
+    distance: '4.8 miles'
+  - name: 'Manor House'
+    phone_no: '01756 720204'
+    phone_no_for_url: '+441756720204'
+    website: 'http://www.redlion.co.uk'
+    distance: '6 miles'
+    comments: 'Next door to Red Lion'
+  - name: 'Scaife Hall Farm'
+    phone_no: '01943 880354'
+    phone_no_for_url: '+441943880354'
+    website: 'http://scaifehallfarm.co.uk/'
+    distance: '8 miles'
+  - name: 'Rockwood House'
+    phone_no: '01756 799755'
+    phone_no_for_url: '+441756799755'
+    website: 'http://rockwood-house-bed-breakfast.yorkshire-hotel.com/'
+    distance: '5.1 miles'
+houses:
+  - name: 'Barden Bunk Barn'
+    phone_no: '01756 720616'
+    phone_no_for_url: '+441756720616'
+    website: 'https://www.thebarnatbarden.com/'
+    distance: '3.3 miles'
+    comments: 'Sleeps 24'
+  - name: 'Broughton Hall Estate Holiday Cottages'
+    phone_no: '01756 799608'
+    phone_no_for_url: '+441756799608'
+    website: 'https://www.broughtonhall.co.uk/'
+    distance: '9.8 miles'
+    comments: '2 x 6 bedroom cottages, 1 x 4 bedroom cottage, 1 x 3 bedroom cottage'
+  - name: 'Brass Castle'
+    phone_no: '07792 398538'
+    phone_no_for_url: '+447792398538' 
+    website: 'https://www.boutiquecottagesyorkshire.com/'
+    distance: '??'
+    comments: 'Sleeps up to 14'
+  - name: 'Buryemwick'
+    phone_no: '07712 622330'
+    phone_no_for_url: '+447712622330'
+    website: 'https://www.cottages.com/cottages/buryemwick-uk35633'
+    distance: 'Approximately 12 miles'
+    comments: 'Sleeps 8'
+
+camps:
+  - name: 'Catgill Campsite'
+    phone_no: '01756 710247'
+    phone_no_for_url: '+441756710247'
+    website: 'https://www.catgillfarm.co.uk/'
+    distance: '0.7 miles'
+    comments: 'Camping, Bell Tents (Glamping) &amp; Timer Pods (Glamping)'
+  - name: 'Howgill Lodge'
+    phone_no: '01756 720655'
+    phone_no_for_url: '+441756720655'
+    website: 'https://www.howgill-lodge.co.uk/'
+    distance: '4.6 miles'
 ---
 
 <h2>Hotels</h2>
@@ -52,5 +139,48 @@ hotels:
     <li><a href="{{ hotel.website }}">Website</a></li>
     {% if hotel.facebook %}<li><a href="{{ hotel.facebook }}">Facebook</a></li>{% endif %}
     {% if hotel.comments %}<li>{{ hotel.comments }}</li>{% endif %}
+</ul>
+{% endfor %}
+<h2>Pubs with rooms</h2>
+% for pub in page.pubs %<h3>{{ pub.name }}</h3>
+<ul>
+  <li>Distance {{ pub.distance }}</li>
+  {% if pub.phone_no %}<li>Phone: <a href="tel:{{ pub.phone_no_for_url }}">{{ pub.phone_no }}</a></li>{% endif %}
+  <li><a href="{{ pub.website }}">Website</a></li>
+  {% if pub.facebook %}<li><a href="{{ pub.facebook }}">Facebook</a></li>% endif %}
+  {% if pub.comments %}<li>{{ pub.comments }}</li>{% endif %}
+</ul>
+{% endfor %}
+<h2>Bed &amp; Breakfasts</h2>
+{% for bnb in page.bnbs %}
+<h3>{{ bnb.name }}</h3>
+<ul>
+  <li>Distance {{ bnb.distance }}</li>
+  {% if bnb.phone_no %}<li>Phone: <a href="tel:{{ bnb.phone_no_for_url }}">{{ bnb.phone_no }}</a></li>{% endif %}
+  {% if bnb.website %}<li><a href="{{ bnb.website }}">Website</a></li>{% endif %}
+  {% if bnb.facebook %}<li><a href="{{ bnb.facebook }}">Facebook</a></li>{% endif %}
+  {% if bnb.comments %}<li>{{ bnb.comments }}</li>{% endif %}
+</ul>
+{% endfor %}
+<h2>Houses &amp; Cottages</h2>
+{% for house in page.houses %}
+<h3>{{ house.name }}</h3>
+<ul>
+  <li>Distance {{ house.distance }}</li>
+  {% if house.phone_no %}<li>Phone: <a href="tel:{{ house.phone_no_for_url }}">{{ house.phone_no }}</a></li>{% endif %}
+  {% if house.website %}<li><a href="{{ house.website }}">Website</a></li>{% endif %}
+  {% if house.facebook %}<li><a href="{{ house.facebook }}">Facebook</a></li>{% endif %}
+  {% if house.comments %}<li>{{ house.comments }}</li>{% endif %}
+</ul>
+{% endfor %}
+<h2>Camping</h2>
+{% for camp in page.camps %}
+<h3>{{ camp.name }}</h3>
+<ul>
+  <li>Distance {{ camp.distance }}</li>
+  {% if camp.phone_no %}<li>Phone: <a href="tel:{{ camp.phone_no_for_url }}">{{ camp.phone_no }}</a></li>{% endif %}
+  {% if camp.website %}<li><a href="{{ camp.website }}">Website</a></li>{% endif %}
+  {% if camp.facebook %}<li><a href="{{ camp.facebook }}">Facebook</a></li>{% endif %}
+  {% if camp.comments %}<li>{{ camp.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
