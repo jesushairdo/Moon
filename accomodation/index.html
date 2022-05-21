@@ -124,7 +124,7 @@ camps:
     distance: '4.6 miles'
 ---
 
-<h2>Hotels</h2>
+<h2 id="hotels">Hotels</h2>
  {% for hotel in page.hotels %}
 <h3>{{ hotel.name }}</h3>
 <ul>
@@ -136,7 +136,7 @@ camps:
 </ul>
 {% endfor %}
 
-<h2>Pubs with rooms</h2>
+<h2 id="pubs">Pubs with rooms</h2>
 {% for pub in page.pubs %}
 <h3>{{ pub.name }}</h3>
 <ul>
@@ -147,7 +147,7 @@ camps:
   {% if pub.comments %}<li>{{ pub.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
-<h2>Bed &amp; Breakfasts</h2>
+<h2 id="bnbs">Bed &amp; Breakfasts</h2>
 {% for bnb in page.bnbs %}
 <h3>{{ bnb.name }}</h3>
 <ul>
@@ -158,7 +158,7 @@ camps:
   {% if bnb.comments %}<li>{{ bnb.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
-<h2>Houses &amp; Cottages</h2>
+<h2 id="houses">Houses &amp; Cottages</h2>
 {% for house in page.houses %}
 <h3>{{ house.name }}</h3>
 <ul>
@@ -169,7 +169,7 @@ camps:
   {% if house.comments %}<li>{{ house.comments }}</li>{% endif %}
 </ul>
 {% endfor %}
-<h2>Camping</h2>
+<h2 id="camping"">Camping</h2>
 {% for camp in page.camps %}
 <h3>{{ camp.name }}</h3>
 <ul>
