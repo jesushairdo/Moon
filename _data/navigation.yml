@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Wedding
-  url: /event
+#- title: Wedding
+#  url: /event
 - title: Venue
   url: /venue
 - title: Transport
