@@ -13,8 +13,10 @@ comments: false
 
 ### Parking
 There is plenty of parking available at the venue. You can leave your car overnight, just make sure that you collect by 10am on the morning after
+
 ### Accessbility
 The entire venue is single story with large doors to enter the venue and to access the private outdoor space. Accessible toilets are also available within the venue.
+
 ### What Will The Weather Be Like?
 This is England, so who knows what the weather will be like, however, typical weather for Bolton Abbey on our date is in the region of a high of 17C with lows of 10C.
 Whilst the festivities will all be conducted indoors there will be an outdoor area as well. There will be covers in the outdoor area in the event of rain. There will also be a firepit and flamed torches to provide light and heat if needed, plus you'll get to toast marshmallows!
@@ -22,7 +24,9 @@ Whilst the festivities will all be conducted indoors there will be an outdoor ar
 ## Invites
 ### RSVP Deadline
 To allow us to provide the wedding venue with final numbers & any special dietary requirements we ask that you RSVP by 4th May 2023
-### Can I Bring a Date?
+{: .notice}
+
+### Can I Bring a Guest?
 Please check your invite for your plus 1
 ### Are Children Welcome?
 Of course, we would love to share our special day with all of our family and loved ones - including children. Please make sure you let us know when you RSVP how many children will be coming.
