@@ -8,7 +8,7 @@ comments: false
 ### Hargreaves Coaches
 Mini Buses & Coaches
 Tel: 01756 752567
-[www:](https://www.hargreavescoaches.co.uk)
+[https://www.hargreavescoaches.co.uk](https://www.hargreavescoaches.co.uk)
 
 Vehicle Fleet
 * 16 seater
