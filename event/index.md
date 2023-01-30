@@ -10,7 +10,7 @@ More information will be coming soon, no peeking :)
 
 ## Venue
 ### Location
-We are holding our ceremony and celebrations at [The Tithe Barn, Bolton Abbey, Skipton](https://goo.gl/maps/o2JV3WjBB7E37bH1A)
+We are holding our ceremony and celebrations at [The Tithe Barn, Bolton Abbey, Skipton](https://goo.gl/maps/o2JV3WjBB7E37bH1A){:target="_blank"}
 ### Parking
 There is plenty of parking available at the venue. You can leave your car overnight, just make sure that you collect by 10am on the morning after
 ### Accessbility
@@ -32,7 +32,7 @@ Please make sure you tell us of any dietary requirements for anyone in your part
 ## Ceremony
 If you are joining us for the ceremony, please be aware of the following information
 ### Arrival Time
-Please arrive at the [venue](https://goo.gl/maps/o2JV3WjBB7E37bH1A) by 13:45 to enable us to seat you ready for the ceremony at 14:30
+Please arrive at the [venue](https://goo.gl/maps/o2JV3WjBB7E37bH1A){:target="_blank"} by 13:45 to enable us to seat you ready for the ceremony at 14:30
 ### Dress Code
 We ask that you dress in smart dress to help us celebrate our day in style 
 ### Can I Use Confetti
@@ -43,7 +43,7 @@ We have a professional photographer taking photographs throughout the day. For t
 ## Evening Reception
 If you are joining us for the evening reception, please be aware of the following information
 ### Start Time
-We would ask you to join us at the [venue](https://goo.gl/maps/o2JV3WjBB7E37bH1A) at 19:30 so you are in time to see us have our first dance as a married couple at 19:45
+We would ask you to join us at the [venue](https://goo.gl/maps/o2JV3WjBB7E37bH1A){:target="_blank"} at 19:30 so you are in time to see us have our first dance as a married couple at 19:45
 ### End Time
 The reception will end at midnight with the bar closing at 23:45.
 ### Dress Code
@@ -57,4 +57,4 @@ We would ask that you don't take photographs during the ceremony - don't worry w
 ### Any Other Time During The Day
 We would love you to take photographs & videos throughout the rest of the day. 
 ### How Should I Share My Photos
-We would love you to share them via Instagram tagging our wedding profile [@kerwicksharpewedding](http://instagram.com/kerwicksharpewedding)
+We would love you to share them via Instagram tagging our wedding profile [@kerwicksharpewedding](http://instagram.com/kerwicksharpewedding){:target="_blank"}
