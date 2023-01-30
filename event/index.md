@@ -6,11 +6,9 @@ comments: false
 ---
 
 # Information About The Day
-More information will be coming soon, no peeking :)
-
 ## Venue
 ### Location
-We are holding our ceremony and celebrations at [The Tithe Barn, Bolton Abbey, Skipton](https://goo.gl/maps/o2JV3WjBB7E37bH1A){:target="_blank"}
+> We are holding our ceremony and celebrations at [The Tithe Barn, Bolton Abbey, Skipton](https://goo.gl/maps/o2JV3WjBB7E37bH1A){:target="_blank"}
 ### Parking
 There is plenty of parking available at the venue. You can leave your car overnight, just make sure that you collect by 10am on the morning after
 ### Accessbility
