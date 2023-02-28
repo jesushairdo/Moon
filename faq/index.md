@@ -4,13 +4,10 @@ title: Event FAQs
 description: "Frequently asked questions for the wedding"
 comments: false
 ---
-## Heading
-### Subheading
-
 ## When is the RSVP Deadline?
 Please RSVP by May 4th so we can provide an accurate headcount to the venue
 
-## Where should I park?
+### Where should I park?
 There is plenty of free parking available at the venue itself
 
 ## What time should I arrive
@@ -41,14 +38,14 @@ Our wedding ceremony is indoors, however, there is also an outdoor area
 We will be providing confetti for everyone, however, you are welcome to bring your own. However, due to restrictions imposed on the venue by the Bolton Abbey estate, **only fresh flower petals** are permitted
 
 ## Is it ok to take pictures during the wedding?
-Yes! We would love for you to take photos and share them via instagram tagging in [http://instagram.com/kerwicksharpewedding](@kerwicksharpwedding). We do ask that you refrain from taking photos during the ceremony. We will have an official photographer and will share the photos after the event
+Yes! We would love for you to take photos and share them via instagram tagging in [@kerwicksharpwedding](http://instagram.com/kerwicksharpewedding). We do ask that you refrain from taking photos during the ceremony. We will have an official photographer and will share the photos after the event
 
 ## How do I get from my hotel to and from the event
 We advise that you pre-book your taxis to and from the event. 
 Cars can be left at the venue overnight but **MUST** be collected by 10am the next day
 
 ## I am coming from out of town. Where should I stay
-There is a list of nearby accomodation on the [/accomodation/](Accomodation) page
+There is a list of nearby accomodation on the [Accomodation](/accomodation/) page
 
 ## What time will the reception end
 The reception will end at midnight, with the bar closing at 23:45
