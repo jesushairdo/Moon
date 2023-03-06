@@ -26,6 +26,10 @@ The entire venue is single story with large doors to enter the venue and to acce
 This is England, so who knows what the weather will be like, however, typical weather for Bolton Abbey on our date is in the region of a high of 17C with lows of 10C.
 Whilst the festivities will all be conducted indoors there will be an outdoor area as well. There will be covers in the outdoor area in the event of rain. There will also be a firepit and flamed torches to provide light and heat if needed, plus you'll get to toast marshmallows!
 
+### Does the Bar accept card / cash?
+
+The venue bar is a **CARD ONLY bar**, cash is NOT accepted
+
 ## Invites
 
 ### RSVP Deadline
